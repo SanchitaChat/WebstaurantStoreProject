@@ -1,0 +1,8 @@
+<suite name="webstoresuite">
+	<test name="testngTest">
+		<classes>
+			<class name="BaseTest"/>
+			<class name="HomepageTests"/>
+		</classes>
+	</test>
+</suite>
